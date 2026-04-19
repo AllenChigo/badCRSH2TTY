@@ -24,4 +24,4 @@ Restart the device after the script completes
 
 Important notes:
 
-This script requires ChromeOS developer mode to
+This script requires ChromeOS developer mode
